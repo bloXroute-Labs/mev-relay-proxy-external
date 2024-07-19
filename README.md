@@ -67,7 +67,7 @@ bloxroute/mev-relay-proxy:v0.0.1 \
 -  connect to mev relay proxy by configuring the relay proxy ip using `--relay` flag in mev boost
 
 # How to configure relay proxy to MEV Boost
-## Goerli testnet
+## Holesky testnet
 
 Run MEV-Boost pointed at a holesky relay and relay-proxy:
 
