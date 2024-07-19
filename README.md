@@ -71,7 +71,7 @@ bloxroute/mev-relay-proxy:v0.0.1 \
 
 Run MEV-Boost pointed at a holesky relay and relay-proxy:
 
-``./mev-boost --holesky -relay-check -relays http://0x821f2a65afb70e7f2e820a925a9b4c80a159620582c1766b1b09729fec178b11ea22abb3a51f07b288be815a1a2ff516@bloxroute.holesky.blxrbdn.com &
+``./mev-boost --holesky -relay-check -relays http://0x821f2a65afb70e7f2e820a925a9b4c80a159620582c1766b1b09729fec178b11ea22abb3a51f07b288be815a1a2ff516@54.164.127.218 &
 ``
 ## Mainnet
 ### Max-profit
